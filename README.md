@@ -10,11 +10,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
 </picture>
 
-![github账户信息统计](https://github-stats.ubrong.com/api?username=dr526&show_icons=true)
-
-![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=dr526&layout=compact)
-
-![github统计](https://stats.justsong.cn/api/github?username=dr526&lang=zh-CN)
+![github账户信息统计](https://github-stats.ubrong.com/api?username=dr526&show_icons=true) ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=dr526&layout=compact)
 
 ----
 

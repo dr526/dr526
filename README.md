@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+🎉,+I+am+dr526;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+
 <p align="center">
   <img width="140" src="https://www.dr526.top/images/avatar.png" />  
   <h2 align="center">dr526</h2>
